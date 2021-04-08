@@ -1,0 +1,8 @@
+firstly you need to have a JDK kit installed on your computer to run this program !
+after installing it , make a directory in the bin..
+copy the code and paste it in notepad.
+save it with the extension .java
+now open cmd and type cd {the path where you have saved or create the file}
+type javac nameofthefile.java
+then if there are no errors, type java nameofthefile.java
+done !
